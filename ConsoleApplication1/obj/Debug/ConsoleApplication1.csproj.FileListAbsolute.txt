@@ -1,0 +1,8 @@
+C:\A_KR\college\mco_368_ATOOP\Asgn01\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\A_KR\college\mco_368_ATOOP\Asgn01\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\A_KR\college\mco_368_ATOOP\Asgn01\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\A_KR\college\mco_368_ATOOP\Asgn01\ConsoleApplication1\bin\Debug\Classes.dll
+C:\A_KR\college\mco_368_ATOOP\Asgn01\ConsoleApplication1\bin\Debug\Classes.pdb
+C:\A_KR\college\mco_368_ATOOP\Asgn01\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\A_KR\college\mco_368_ATOOP\Asgn01\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\A_KR\college\mco_368_ATOOP\Asgn01\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

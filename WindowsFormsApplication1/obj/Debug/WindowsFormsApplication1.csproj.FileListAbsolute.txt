@@ -1,0 +1,11 @@
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\bin\Debug\Classes.dll
+C:\A_KR\college\mco_368_ATOOP\Asgn01\WindowsFormsApplication1\bin\Debug\Classes.pdb
